@@ -24,6 +24,8 @@ I studied Business administration in Miami in the United States. There I took so
 ### Databases:
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
+### Data Visualization Tool:
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 </div>
 
@@ -52,5 +54,7 @@ Estudei administração de empresas em Miami nos Estados Unidos. Lá tive alguma
 ### Banco de Dados:
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
+### Ferramenta de Visualização de Dados:
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 </div>
