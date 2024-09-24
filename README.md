@@ -27,6 +27,8 @@ I studied Business administration in Miami in the United States. There I took so
 ### Data Visualization Tool:
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 </div>
 
 **Versão PT-BR**
@@ -56,5 +58,9 @@ Estudei administração de empresas em Miami nos Estados Unidos. Lá tive alguma
 
 ### Ferramenta de Visualização de Dados:
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 
 </div>
