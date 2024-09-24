@@ -6,12 +6,11 @@
 
 ## My name is João Pinheiro and welcome to my GitHub!!
 
-Here you can see my projects and how they evolve over time. My goal is simple: to create a portfolio where I can see and show my progression in becoming a better data analyst. 
+Here you will find my projects and be able to track their evolution over time. My goal is simple: to build a portfolio that not only allows me to monitor my progress but also showcases my development as a data analyst.
 
-Now that I've shared my goal for this GitHub account I will also share a little bit about my academic career 🧑🏽‍🎓.
+Now that I've shared the purpose of this account, I'd like to give you a bit of insight into my academic and professional background.
 
-I studied Business administration in Miami in the United States. There I took some classes that involved Power BI and analytics. After that, I was hooked on learning more about the data field. After graduating, I decided to change my career path and embark on this journey of becoming a data analyst.
-
+I graduated in Business Administration in Miami, United States, where I first encountered Power BI and data analysis field. These courses sparked my passion for the world of data, and after graduating, I decided to pursue a new path: becoming a data analyst. Today, I am fully committed to this journey and continuously striving to grow in this field!
 
 
 ### How to reach me 📨:
@@ -39,12 +38,11 @@ I studied Business administration in Miami in the United States. There I took so
 
 ## Meu nome é João Pinheiro e seja bem vindo ao meu GitHub!!
 
-Aqui você pode ver meus projetos e o como eles evoluem ao longo do tempo. Meu objetivo aqui é simples: criar um portfólio onde eu possa ver o meu progresso e também mostrar a minha progressão como analista de dados.
+Aqui você encontrará meus projetos e poderá acompanhar a evolução deles ao longo do tempo. Meu objetivo é simples: construir um portfólio que não só me permita acompanhar meu progresso, mas também demonstre minha trajetória como analista de dados.
 
-Agora que compartilhei o meu objetivo para esta conta do GitHub, também compartilharei um pouco sobre a minha carreira acadêmica.
+Agora que expliquei o propósito desta conta, gostaria de compartilhar um pouco sobre minha formação acadêmica e profissional.
 
-Estudei administração de empresas em Miami nos Estados Unidos. Lá tive algumas aulas que envolveram Power Bi e análises de dados. Depois dessas aulas fiquei encantado com esse mundo de análises de dados. Depois de me formar, decidi mudar de carreira e embarcar nessa nova jornada de me tornar um grande analista de dados!
-
+Me formei em Administração de Empresas em Miami, nos Estados Unidos, onde tive meu primeiro contato com Power BI e análises de dados. Essas disciplinas despertaram minha paixão pelo universo de dados, e após a graduação, decidi seguir um novo caminho: me tornar um analista de dados. Hoje, estou totalmente dedicado a essa jornada e buscando continuamente crescer nessa área!
 
 ### Entre em contato 📨:
 
